@@ -20,7 +20,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/iphone-animation/', // Correct base URL for GitHub Pages
+  base: '/iphone-aniamtion/', // Correct base URL for GitHub Pages
   build: {
     sourcemap: true, // Enable sourcemaps for debugging
   },
